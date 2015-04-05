@@ -10,7 +10,7 @@ use Encode;
 use utf8;
 
 my $user_id = '';
-my $app_id = 'JKLkvrOvO6JkR0DncCjeyNS+vT2PgWmRyxzbEm3D+6o';
+my $app_id = '';
 
 my $ua = LWP::UserAgent->new;
 my $dir = dir('./data');
